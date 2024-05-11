@@ -1,2 +1,2 @@
-# Mini-Shell-
-Mini Shell - Linux
+# Mini-Shell-Linux
+Project simulating a shell
